@@ -39,6 +39,3 @@ EchoBeat is a vibrant music player built with ReactJS, designed to deliver an en
 
 Contributions are welcome! If you find any bugs or want to improve the application, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
